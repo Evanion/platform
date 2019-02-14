@@ -1,0 +1,26 @@
+{
+  "name": "platform",
+  "version": "1.0.0",
+  "description": "*Platform* This is the meta project that handles the different platform codebases. It also contains the config for VSC, in order to setup tools and environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Evanion/platform.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Evanion/platform/issues"
+  },
+  "homepage": "https://github.com/Evanion/platform#readme",
+  "devDependencies": {
+    "gh": "^1.15.0",
+    "meta": "^1.2.16",
+    "meta-gh": "^1.0.0",
+    "meta-yarn": "^1.0.0"
+  }
+}
