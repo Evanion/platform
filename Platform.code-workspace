@@ -21,6 +21,8 @@
     "editor.accessibilitySupport": "off",
     "editor.lightbulb.enabled": false,
     "editor.smoothScrolling": true,
-    "editor.tabCompletion": "on"
+    "editor.tabCompletion": "on",
+    "npm.packageManager": "yarn",
+    "npm.autoDetect": "on"
   }
 }

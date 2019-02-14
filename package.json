@@ -4,7 +4,8 @@
   "description": "*Platform* This is the meta project that handles the different platform codebases. It also contains the config for VSC, in order to setup tools and environments",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "gh": "meta-gh",
+    "add:all": "meta-yarn add"
   },
   "repository": {
     "type": "git",
