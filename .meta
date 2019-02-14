@@ -1,6 +1,6 @@
 {
   "projects": {
-    "client-mobile": "https://github.com/Evanion/platform-mobile.git",
-    "client-web": "https://github.com/Evanion/platform-web.git"
+    "client-mobile": "https://gitlab.com/r2m/platform/client-mobile.git",
+    "client-web": "https://gitlab.com/r2m/platform/client-web.git"
   }
 }
