@@ -23,6 +23,7 @@
     "editor.smoothScrolling": true,
     "editor.tabCompletion": "on",
     "npm.packageManager": "yarn",
-    "npm.autoDetect": "on"
+    "npm.autoDetect": "on",
+    "npm.enableScriptExplorer": true
   }
 }
