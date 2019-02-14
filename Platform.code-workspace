@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "path": "client-mobile"
+    },
+    {
+      "path": "client-web"
+    }
+  ],
+  "settings": {
+    "[handlebars]": { "editor.formatOnSave": false },
+    "tslint.enable": true,
+    "tslint.autoFixOnSave": true,
+    "tslint.packageManager": "npm",
+    "tslint.run": "onType",
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "es5",
+    "editor.tabSize": 2,
+    "editor.wordWrapColumn": 150,
+    "editor.accessibilitySupport": "off",
+    "editor.lightbulb.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on"
+  }
+}
